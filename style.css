@@ -9,7 +9,7 @@
 }
 
 html {
-  background-color: #f8f8e6 ;
+  background-color: #fffffe ;
   color: #111331ff;
   font-family: "Questrial", sans-serif;
   font-weight: 300;
@@ -52,7 +52,7 @@ header {
 }
 
 .logo_flex img{
-  background-color: #f8f8e6;
+  background-color: #fffffe;
   z-index: 5;
   border-radius: 100%;
 }
@@ -70,7 +70,7 @@ header {
   width: 100%;
   top: 0;
   z-index: 99;
- background-color: #f8f8e6;
+ background-color: #fffffe;
 }
 
 a {
@@ -86,7 +86,7 @@ a {
   height: 200px;
   color: #fff;
   text-align: center;
-  background-image: url(images/GOPR2047.JPG);
+  background-image: url(images/Banniere.JPG);
   background-position: center;
   background-size: 100%;
 }
